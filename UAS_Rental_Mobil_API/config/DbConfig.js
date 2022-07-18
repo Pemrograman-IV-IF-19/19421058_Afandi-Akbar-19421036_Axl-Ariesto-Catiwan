@@ -1,0 +1,1 @@
+exports.mongoUrl = 'mongodb://localhost:27017/rental_mobil'
